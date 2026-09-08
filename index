@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FunChat - Learn More</title>
+</head>
+<body>
+  <h1>FunChat</h1>
+
+  <h2>About FunChat</h2>
+  <p>
+    FunChat is a social communication application that allows users
+    to communicate and create camera-based content.
+  </p>
+
+  <h2>Camera Kit</h2>
+  <p>
+    FunChat uses Snap Camera Kit to provide creative camera lenses
+    and effects. Users can access the camera, apply available lenses,
+    and create content within the application.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    For questions or support regarding FunChat, please contact the
+    application developer.
+  </p>
+
+  <p>
+    <a href="privacy.html">Privacy Policy</a> |
+    <a href="terms.html">Terms of Service</a>
+  </p>
+</body>
+</html>
