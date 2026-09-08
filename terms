@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FunChat - Terms of Service</title>
+</head>
+
+<body>
+  <h1>Terms of Service</h1>
+
+  <p>Last updated: September 8, 2026</p>
+
+  <h2>Acceptance of Terms</h2>
+  <p>
+    By using FunChat, you agree to these Terms of Service.
+    If you do not agree with these terms, please do not use the application.
+  </p>
+
+  <h2>Use of the Application</h2>
+  <p>
+    FunChat provides camera-based features that allow users to create
+    and enjoy visual content. You agree to use FunChat only for lawful
+    purposes and in accordance with these terms.
+  </p>
+
+  <h2>Camera Features</h2>
+  <p>
+    FunChat may request permission to access your device camera.
+    Camera access is required only when you use camera-related features.
+  </p>
+
+  <h2>User Content</h2>
+  <p>
+    You are responsible for any photos, videos, or other content that
+    you create or share while using FunChat. You must have the necessary
+    rights and permissions to use or share such content.
+  </p>
+
+  <h2>Prohibited Use</h2>
+  <p>
+    You must not use FunChat to create or distribute unlawful, harmful,
+    abusive, misleading, or infringing content, or to violate the rights
+    of other people.
+  </p>
+
+  <h2>Third-Party Services</h2>
+  <p>
+    FunChat may use third-party technologies and services to provide
+    camera features and visual effects. Your use of those features may
+    also be subject to the applicable third-party terms and policies.
+  </p>
+
+  <h2>Changes to These Terms</h2>
+  <p>
+    We may update these Terms of Service from time to time. Updated
+    terms will be posted on this page with a revised date.
+  </p>
+
+  <h2>Termination</h2>
+  <p>
+    We may restrict or terminate access to FunChat if the application
+    is used in violation of these terms or applicable laws.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    If you have questions about these Terms of Service, please contact
+    the FunChat developer.
+  </p>
+
+  <p>
+    <a href="index.html">Learn More</a> |
+    <a href="privacy.html">Privacy Policy</a>
+  </p>
+</body>
+</html>
