@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FunChat - Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+
+  <p>Last updated: September 8, 2026</p>
+
+  <h2>About FunChat</h2>
+  <p>
+    FunChat is a camera-based application that allows users to
+    use their device camera to create and enjoy visual content.
+  </p>
+
+  <h2>Camera Permission</h2>
+  <p>
+    FunChat requests access to your device camera so that you can
+    use the camera features provided by the application.
+    Camera access is used only when you use camera-related features.
+  </p>
+
+  <h2>Photos and Videos</h2>
+  <p>
+    If you choose to capture or save photos or videos using FunChat,
+    the application may require the appropriate device permissions.
+  </p>
+
+  <h2>Information We Collect</h2>
+  <p>
+    FunChat does not require access to your camera unless you choose
+    to use camera-related features. We do not claim ownership of
+    content you create using the application.
+  </p>
+
+  <h2>Third-Party Services</h2>
+  <p>
+    FunChat may use third-party services to provide camera features
+    and visual effects.
+  </p>
+
+  <h2>Children's Privacy</h2>
+  <p>
+    FunChat is not specifically directed to children under 13 in
+    the United States.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    If you have questions about this Privacy Policy, please contact
+    the FunChat developer.
+  </p>
+
+  <p>
+    <a href="index.html">Learn More</a> |
+    <a href="terms.html">Terms of Service</a>
+  </p>
+</body>
+</html>
